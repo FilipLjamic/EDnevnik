@@ -14,3 +14,4 @@ C:\Users\Filip\Desktop\Folderi\Skola\4.Godina\BazePodataka\Github\EDnevnik\obj\D
 C:\Users\Filip\Desktop\Folderi\Skola\4.Godina\BazePodataka\Github\EDnevnik\obj\Debug\EDnevnik.Raspodela.resources
 C:\Users\Filip\Desktop\Folderi\Skola\4.Godina\BazePodataka\Github\EDnevnik\obj\Debug\EDnevnik.Glavna2.resources
 C:\Users\Filip\Desktop\Folderi\Skola\4.Godina\BazePodataka\Github\EDnevnik\obj\Debug\EDnevnik.Upisnica.resources
+C:\Users\Filip\Desktop\Folderi\Skola\4.Godina\BazePodataka\Github\EDnevnik\obj\Debug\EDnevnik.Ocena.resources
